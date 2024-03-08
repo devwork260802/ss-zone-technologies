@@ -1,0 +1,30 @@
+Domain: Web Development
+
+Project Title: Landing Page
+
+Task: Design homepage layout (Mobile Responsive)
+Deadline: 27/02/2024
+Priority: High
+Label: Design
+
+Task: Develop contact form functionality
+Deadline: 28/02/2024
+Priority: High
+Label: Development, Contact Form
+
+Task: Optimize website for other device responsiveness
+Deadline: 01/03/2024
+Priority: High
+Label: Optimization, Mobile
+
+Task: Implement SEO strategies
+Deadline: 02/03/2024
+Priority: Medium
+Label: SEO
+
+Task: Test website functionality across browsers
+Deadline: 03/03/2024
+Priority: Medium
+Label: Testing
+
+Total time : 8hr
